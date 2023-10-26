@@ -1,0 +1,6 @@
+py2exe
+pandas
+tensorflow
+scikit-learn
+requests
+pyfiglet
