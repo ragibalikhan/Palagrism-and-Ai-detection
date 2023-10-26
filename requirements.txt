@@ -3,4 +3,6 @@ tensorflow
 scikit-learn
 requests
 pyfiglet
+Flask
+Flask-Cors
 gunicorn
