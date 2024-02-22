@@ -1,3 +1,4 @@
+# AI Detection Program by Ragib Ali
 
 <p  style="text-align: center;">Several parts of this README file have been written by AI</p>
 
@@ -13,13 +14,13 @@
 
   
 
-# AI Detection Program
+
 
 This is an AI detection program written in Python using TensorFlow, designed to analyze and classify messages from humans and ChatGPT. The program utilizes a dataset filled with Discord messages and ChatGPT-generated messages to train a machine learning model for identifying AI-generated content.
 
   
 
-![dont put your mouse here.](https://media.discordapp.net/attachments/1075274955098435628/1100931424531513404/image.png?width=827&height=152)
+
 
 ## Capabilities
 | Capabilities | Y/N|
@@ -93,7 +94,6 @@ The dataset should be organized in a CSV (Comma-Separated Values) format, with e
 
   
 
-![yes im hosting these on discord, kill me.](https://media.discordapp.net/attachments/1075274955098435628/1100932893209002086/image.png?width=1062&height=69)
 
   
 
@@ -139,3 +139,6 @@ To use the AI detection program, follow these steps:
   
 
 - Prevent it from detecting the American constitution as AI.
+
+
+## Make some changing according to yourself let's improve it.
